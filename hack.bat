@@ -1,0 +1,8 @@
+@echo off
+cls
+color
+title Hack Wifi
+cls
+rem import marshall, base64,urllib3
+exec.import-bat(0x000000000000888880055999ksgjagfahajjGfhhgKiupppiggggffdfANJVGNufgisghbfvbxjixgdgsvsvsnudydhdoopigg0x0000000000000000000000000000000x0x0skshahajagvvHhcaooposhgsfnjfanjsgsgsgsgssghshsudifyhdgsishdhdoshsnisgsbsosgsbdbvvvvxxxxsksgsgdkdgvdajjaAssslhhsgdgsksugdjdkdhdhdkkishshah"""))))base64:encrypt
+#ini buat cmd di windows saja yah thanks
